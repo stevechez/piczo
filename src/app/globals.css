@@ -127,3 +127,9 @@
     @apply font-sans;
   }
 }
+
+.theme-retro .block-wrapper {
+  border: 2px solid currentColor;
+  box-shadow: 4px 4px 0px currentColor;
+  border-radius: 0px; /* Sharp edges for that old-school feel */
+}
